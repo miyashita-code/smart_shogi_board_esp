@@ -16,19 +16,19 @@ Welcome to the Smart Shogi Board Project! This innovative project combines the t
 
   <!-- First Image and Title -->
   <div style="flex: 1; padding: 5px; text-align: center;">
-    <p>kicad Main Board preview</p>
+    <p>・kicad Main Board preview</p>
     <img src="https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/6c27e11f-9f49-4cfd-99f6-25afe34ea3a7" style="width: 60%; max-width: 300px;" alt="kicad Main Board preview">
   </div>
 
   <!-- Second Image and Title -->
   <div style="flex: 1; padding: 5px; text-align: center;">
-    <p>Detailed View of the Real Board</p>
+    <p>・Detailed View of the Real Board</p>
     <img src="https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/503ab837-693b-45e0-b4bc-aa81f26e2c8e" style="width: 60%; max-width: 300px;" alt="Detailed View of the Real Board">
   </div>
 
   <!-- Third Image and Title -->
   <div style="flex: 1; padding: 5px; text-align: center;">
-    <p>new version machine looks</p>
+    <p>・new version machine looks</p>
     <img src="https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/96bffbb3-9ec0-4035-8ef1-90ca2399b5cb" style="width: 60%; max-width: 300px;" alt="new version machine looks">
   </div>
 
@@ -49,7 +49,10 @@ Welcome to the Smart Shogi Board Project! This innovative project combines the t
 ## Development & Collaboration
 - **GitHub Integration:** Initially not maintained on GitHub, but essential resources will now be provided. Sorry messey ...
 - **Prototype Image Reference:** See Image 1 for the initial prototype design of the board.
-- **Demonstration Video:** https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/a6df7edc-be3c-4e71-8968-0c8eb9295571
+- **Demonstration Video:**
+(this is first demo version and gikou api server broken, so super weak AI ...)
+
+  https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/a6df7edc-be3c-4e71-8968-0c8eb9295571
 
 ## Note
 This project is continually evolving, and some components may be incomplete or in the development phase. Our goal is to merge traditional Shogi with modern technology to provide a unique and interactive gaming experience. Watch out for more updates and improvements!
