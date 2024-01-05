@@ -1,0 +1,12 @@
+please get zip file of kicad board_data
+
+https://drive.google.com/file/d/1-MquxfYuKXVjFcfEJdOLbRYmFAMkrenK/view?usp=sharing
+
+
+contents
+
+kicad_footprint
+kicad symbol
+shogi_main_board_ver2
+shogi_main_board_ver3  (complete board of  9 * 9)
+shogi_sensor_module    (small 3 hall senser board for animal shogi)
