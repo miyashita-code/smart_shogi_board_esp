@@ -3,6 +3,11 @@
 ## Introduction
 Welcome to the Smart Shogi Board Project! This innovative project combines the traditional Japanese game of Shogi with advanced technology. By using an ESP32 as the main board, it allows players to engage in physical Shogi games against a computer-controlled AI. The AI communication is facilitated through a sample AI server utilizing Gikou, a sophisticated Shogi AI.
 
+(<img width="424" alt="main_board" src="https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/6c27e11f-9f49-4cfd-99f6-25afe34ea3a7">
+![IMG_6380](https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/96bffbb3-9ec0-4035-8ef1-90ca2399b5cb)
+![IMG_6381](https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/503ab837-693b-45e0-b4bc-aa81f26e2c8e)
+)
+
 ## Main Features
 - **ESP32 Main Board:** Acts as the central unit of the smart Shogi board, managing game logic and communication.
 - **Web Client:** A user-friendly interface provided by a React-based web client, communicating with the ESP32 via Bluetooth.
