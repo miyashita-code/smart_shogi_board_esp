@@ -10,7 +10,7 @@ Welcome to the Smart Shogi Board Project! This innovative project combines the t
 - **AI Server Integration:** Use Gikou for AI-based gameplay, offering a challenging Shogi opponent. But the app.py doesn't work well (super weak)
 - **Physical Gameplay Experience:** Play against AI on an actual board, bringing the authentic feel of Shogi to life.
 
-- ## Images
+  ## Images
 <!-- Container with horizontal layout -->
 <div style="display: flex; justify-content: space-between;">
 
@@ -49,7 +49,7 @@ Welcome to the Smart Shogi Board Project! This innovative project combines the t
 ## Development & Collaboration
 - **GitHub Integration:** Initially not maintained on GitHub, but essential resources will now be provided. Sorry messey ...
 - **Prototype Image Reference:** See Image 1 for the initial prototype design of the board.
-- **Demonstration Video:** Refer to Video 1 for a demonstration of the prototype.
+- **Demonstration Video:** https://github.com/miyashita-code/smart_shogi_board_esp/assets/116678712/a6df7edc-be3c-4e71-8968-0c8eb9295571
 
 ## Note
 This project is continually evolving, and some components may be incomplete or in the development phase. Our goal is to merge traditional Shogi with modern technology to provide a unique and interactive gaming experience. Watch out for more updates and improvements!
