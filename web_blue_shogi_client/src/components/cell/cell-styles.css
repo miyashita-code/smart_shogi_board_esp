@@ -1,0 +1,14 @@
+.cell {
+    box-sizing: border-box;
+    border: 0.75px solid black;
+    text-align: center;
+    padding: 0.05rem 0.05rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hilighted {
+    background-color: rgba(220,240,240, 0.6);
+}
