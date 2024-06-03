@@ -1,4 +1,4 @@
-# Smart Shogi Board Project
+# Smart Shogi Board Project (2022)
 
 ## Introduction
 Welcome to the Smart Shogi Board Project! This innovative project combines the traditional Japanese game of Shogi with advanced technology. By using an ESP32 as the main board, it allows players to engage in physical Shogi games against a computer-controlled AI. The AI communication is facilitated through a sample AI server utilizing Gikou, a sophisticated Shogi AI.
